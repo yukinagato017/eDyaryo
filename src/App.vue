@@ -3,7 +3,8 @@
     <div id="nav">
       <div class="logo">
         <router-link to="/">
-          <img alt="logo" src="./assets/edyaro.png" class="elogo"
+          <img alt="logo" src="./assets/logo.png" class="elogo">
+          <img alt="logo" src="./assets/edyaryo.png" class="elogo"
         /></router-link>
       </div>
       <div class="links">
