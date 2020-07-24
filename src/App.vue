@@ -70,7 +70,7 @@ export default {
   data() {
     return {
       dropdown: false,
-      logo: "https://scontent.xx.fbcdn.net/v/t1.0-9/93714048_1991092197689263_3256416913605001216_n.jpg?_nc_cat=101&_nc_sid=09cbfe&_nc_eui2=AeFr3hON8XVSTN5sjqs2CCcWdgGiC8spCTZ2AaILyykJNjZOdyQKYJlane9MN7iFv112_wVSKgn-gv-Vz3lF0Kp9&_nc_ohc=QvwENdJMraYAX9qQjzq&_nc_ht=scontent.xx&oh=f2cfe3638d56bbac6009590a53bb7559&oe=5F3F2F33"
+      logo: "https://edyaryo.netlify.app/img/error.d2b5e94c.jpg"
     };
   },
   metaInfo() {
@@ -80,7 +80,8 @@ export default {
                 { name: 'description', content:  'Epiloge is about connecting in your field of interest. Our vision is to help people share their knowledge, work, projects, papers and ideas and build their network through what they do rather where they live, study or work.'},
                 { property: 'og:title', content: "Epiloge - Build your network in your field of interest"},
                 { property: 'og:site_name', content: 'Epiloge'},
-                {property: 'og:type', content: 'website'},    
+                {property: 'og:type', content: 'https://edyaryo.netlify.app'},    
+                 {property: 'og:image', content: this.logo},    
                 {name: 'robots', content: 'index,follow'} 
             ]
     };
