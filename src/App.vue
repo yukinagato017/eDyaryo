@@ -75,29 +75,14 @@ export default {
   },
   metaInfo() {
     return {
-      meta: [
-        // Twitter Card
-        { name: "twitter:card", content: "eDyaryo" },
-        { name: "twitter:title", content: "Vue Social Cards Example" },
-        {
-          name: "twitter:description",
-          content:
-            "Your news portal online. Visiti Edrayo website for more news alert coming to you.."
-        },
-        // image must be an absolute path
-        { name: "twitter:image", content: this.logo },
-
-        // Facebook OpenGraph
-        { property: "og:title", content: "eDyaryo- News Porta" },
-        { property: "og:site_name", content: "eDyaryo" },
-        { property: "og:type", content: "https://edyaryo.netlify.app" },
-        { property: "og:image", content: this.logo },
-        {
-          property: "og:description",
-          content:
-            "Your news portal online. Visiti eDrayo website for more news alert coming to you."
-        }
-      ]
+     title: "Epiloge - Build your network in your field of interest",
+            meta: [
+                { name: 'description', content:  'Epiloge is about connecting in your field of interest. Our vision is to help people share their knowledge, work, projects, papers and ideas and build their network through what they do rather where they live, study or work.'},
+                { property: 'og:title', content: "Epiloge - Build your network in your field of interest"},
+                { property: 'og:site_name', content: 'Epiloge'},
+                {property: 'og:type', content: 'website'},    
+                {name: 'robots', content: 'index,follow'} 
+            ]
     };
   }
 };
