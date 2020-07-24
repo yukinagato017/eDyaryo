@@ -70,7 +70,7 @@ export default {
   data() {
     return {
       dropdown: false,
-      logo: require("@/assets/logo.png")
+      logo: "https://scontent.xx.fbcdn.net/v/t1.0-9/93714048_1991092197689263_3256416913605001216_n.jpg?_nc_cat=101&_nc_sid=09cbfe&_nc_eui2=AeFr3hON8XVSTN5sjqs2CCcWdgGiC8spCTZ2AaILyykJNjZOdyQKYJlane9MN7iFv112_wVSKgn-gv-Vz3lF0Kp9&_nc_ohc=QvwENdJMraYAX9qQjzq&_nc_ht=scontent.xx&oh=f2cfe3638d56bbac6009590a53bb7559&oe=5F3F2F33"
     };
   },
   metaInfo() {
