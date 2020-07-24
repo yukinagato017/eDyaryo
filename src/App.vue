@@ -52,7 +52,7 @@
                 network="twitter"
                 image="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
                 url="https://www.npmjs.com/package/vue-social-sharing"
-                title="Say hi to Vite! A brand new, extremely fast development setup for Vue."
+                title="This is ony sample."
               >
                 <img alt="logo" src="./assets/twitter.png" class="share-icon" />
                 TWITTER
