@@ -34,10 +34,9 @@
               <ShareNetwork
                 network="facebook"
                 image="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
-                url="https://jufurinitsuga.xyz"
-                title="Say hi to Vite! A brand new, extremely fast development setup for Vue."
+                url="https://edyaryo.netlify.app"
+                title="eDyaro - Your online news Portal, Visit for more information"
                 description="This week, I’d like to introduce you to 'Vite', which means 'Fast'. It’s a brand new development setup created by Evan You."
-                quote="The hot reload is so fast it\'s near instant. - Evan You The hot reload is so fast it\'s near instant. - Evan You"
               >
                 <img
                   alt="logo"
@@ -51,8 +50,8 @@
               <ShareNetwork
                 network="twitter"
                 image="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
-                url="https://www.npmjs.com/package/vue-social-sharing"
-                title="This is ony sample."
+                url="https://edyaryo.netlify.app"
+                title="eDyaro - Your online news Portal, Visit for more information."
               >
                 <img alt="logo" src="./assets/twitter.png" class="share-icon" />
                 TWITTER
