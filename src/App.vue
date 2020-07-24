@@ -33,11 +33,12 @@
             <div class="link">
               <ShareNetwork
                 network="facebook"
-                image="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
-                url="https://edyaryo.netlify.app"
-                title="eDyaro - Your online news Portal, Visit for more information"
-                description="This week, I’d like to introduce you to 'Vite', which means 'Fast'. It’s a brand new development setup created by Evan You."
-              >
+    url="https://news.vuejs.org/issues/180"
+    title="Say hi to Vite! A brand new, extremely fast development setup for Vue."
+    description="This week, I’d like to introduce you to 'Vite', which means 'Fast'. It’s a brand new development setup created by Evan You."
+    quote="The hot reload is so fast it\'s near instant. - Evan You"
+    hashtags="vuejs,vite"
+      >
                 <img
                   alt="logo"
                   src="./assets/facebook.png"
@@ -87,7 +88,7 @@ export default {
         { name: "twitter:image", content: this.logo },
 
         // Facebook OpenGraph
-        { property: "og:title", content: "eDyaryo- News Portal" },
+        { property: "og:title", content: "eDyaryo- News Porta" },
         { property: "og:site_name", content: "eDyaryo" },
         { property: "og:type", content: "https://edyaryo.netlify.app" },
         { property: "og:image", content: this.logo },
