@@ -87,9 +87,9 @@ export default {
         { name: "twitter:image", content: this.logo },
 
         // Facebook OpenGraph
-        { property: "og:title", content: "eDyaryo" },
-        { property: "og:site_name", content: "Vue Example" },
-        { property: "og:type", content: "website" },
+        { property: "og:title", content: "eDyaryo- News Portal" },
+        { property: "og:site_name", content: "eDyaryo" },
+        { property: "og:type", content: "https://edyaryo.netlify.app" },
         { property: "og:image", content: this.logo },
         {
           property: "og:description",
